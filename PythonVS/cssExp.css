@@ -1,0 +1,36 @@
+h2 {
+    font-family: Macondo;
+    font-size: 2em;
+    text-align: center;
+}
+
+.firstdiv {
+    background-color: blue;
+}
+
+.seconddiv {
+    background-color: green;
+}
+
+span {
+
+    color: yellow;
+    background-color: red;
+}
+
+#aa {
+    color: rebeccapurple;
+    background-color: aqua;
+}
+
+#merhaba {
+    border: 5px dotted rgb(94, 32, 193);
+    text-align: center;
+    padding: 10px;
+    margin: 60px;
+}
+#css {
+    border: 5px solid rgb(18, 207, 213);
+    text-align: center;
+    padding-top: 20px;
+}
